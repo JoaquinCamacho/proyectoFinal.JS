@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "img":"./Imagenes/vino.png",
+        "nombre": "Vino",
+        "precio":3000
+    },
+    {
+        "id":2,
+        "img":"./Imagenes/gin.png",
+        "nombre":"Gin",
+        "precio":7000
+    },
+    {
+        "id":3,
+        "img":"./Imagenes/fernett-Photoroom.png",
+        "nombre":"Fernet",
+        "precio":6500
+    },
+    {
+        "id":4,
+        "img":"./Imagenes/ron-Photoroom.png",
+        "nombre":"Ron",
+        "precio":6000
+    },
+    {
+        "id":5,
+        "img":"./Imagenes/vodka-Photoroom.png",
+        "nombre":"Vodka",
+        "precio":5500
+    },
+    {
+        "id":6,
+        "img":"./Imagenes/whisky (2).png",
+        "nombre":"Whisky",
+        "precio":8000
+    }
+]
